@@ -27,3 +27,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ka1-el&show_icons=true&locale=en" alt="ka1-el" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ka1-el&" alt="ka1-el" /></p>
+
+<p align="center"><img src="https://github.com/Black-D3vil007/Black-D3vil007/blob/main/github-user-contribution.svg" alt="𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑"></p>
