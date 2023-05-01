@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Kal</h1>
 <h3 align="center">Aim to Become world's toppest Coder</h3>
 
+![Visitor Count](https://profile-counter.glitch.me/Ka1-El/count.svg)
+
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ka1-el&label=Profile%20views&color=0e75b6&style=flat" alt="ka1-el" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ka1-el" alt="ka1-el" /></a> </p>
